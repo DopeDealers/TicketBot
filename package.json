@@ -1,0 +1,17 @@
+{
+    "name": "TicketBot",
+    "author": "Phil#0004",
+    "main": "index.js",
+    "version": "1.0.0-beta-5",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "discord.js": "^11.4.2",
+        "enmap": "^4.8.1",
+        "enmap-sqlite": "^2.0.5",
+        "glob": "^7.1.3",
+        "glob-promise": "^3.4.0",
+        "leeks.js": "0.0.1",
+        "moment": "^2.24.0",
+        "mysql": "^2.16.0"
+    }
+}
